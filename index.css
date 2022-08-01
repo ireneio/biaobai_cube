@@ -15,7 +15,7 @@ body {
   height: 100vh;
   overflow: hidden;
   font-family: 'Noto Sans', sans-serif;
-  background-color: #eeb8f5;
+  background-color: #0ABAB5;
 }
 
 body::before {
@@ -25,10 +25,10 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  opacity: .33;
+  /* opacity: .33; */
   z-index: -1;
   background-position: center center;
-  background-image: url(./img/bg.png);
+  background-image: url(./img/bg.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
