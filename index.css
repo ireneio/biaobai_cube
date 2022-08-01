@@ -37,7 +37,7 @@ body::before {
 #react {
   width: 200px;
   height: 200px;
-  margin: 200px auto;
+  margin: 125px auto;
   transform-style: preserve-3d;
   animation: rotate 20s infinite;
   animation-timing-function: linear;
